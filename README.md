@@ -1,6 +1,6 @@
 # TGManager - Ferramenta de Gerenciamento para Telegram
 
-![Logo do TGManager](https://i.imgur.com/mu90qGp.png)
+![TGManager.online](https://i.imgur.com/mu90qGp.png)
 
 **A ferramenta definitiva para automação, clonagem e gerenciamento de conteúdo entre grupos e canais do Telegram.**
 
